@@ -1,4 +1,6 @@
-header{
-    border-bottom-style: solid;
-    border-bottom-width: 1px;
+body{
+    font-family: roboto;
+}
+.logo{
+    font-family: "Raleway", sans-serif, 800 ;
 }
