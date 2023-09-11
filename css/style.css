@@ -1,6 +1,7 @@
 body{
     font-family: roboto;
 }
-a.logo{
+.logo{
     font-family: "Raleway", sans-serif, 800 ;
+    color:red;
 }
