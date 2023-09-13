@@ -2,9 +2,11 @@
     --color-white:#FFFFFF;
 }
 
-body {
-    font-family: 'Roboto', sans-serif;
-    color: #434455;
+body
+ {
+     
+     color: #434455;
+     font-family: 'Roboto', sans-serif;
     background-color:var(--color-white);
 }
 
