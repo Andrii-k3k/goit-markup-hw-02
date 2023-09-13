@@ -9,18 +9,19 @@ body{
     font-family: 'Roboto', sans-serif;
     color:#434455;
     background-color:var(--color-white);
-    width:1440px;
 }
 
 h1{
     color:var(--color-white);
 }
 .logo{
-    font-family:var(--logo-font);
+    font-family: "Raleway", sans-serif;
     font-weight:800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em
 }
 .main-slider{
     background-color:#2E2F42;
-    height:600px;
 }
 
