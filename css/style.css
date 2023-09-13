@@ -2,7 +2,7 @@
     --color-white:#FFFFFF;
 }
 
-body{
+body {
     font-family: 'Roboto', sans-serif;
     color: #434455;
     background-color:var(--color-white);
