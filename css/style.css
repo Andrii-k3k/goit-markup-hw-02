@@ -1,7 +1,31 @@
+:root{
+   
+}
+
 body{
-    font-family: roboto;
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+    width: 1440px;
+    margin: auto;
+}
+
+h1{
+    color: #FFFFFF;
+    text-align: center;
+    vertical-align: middle;
+    justify-content: center;
+    
+}
+
+button {
+    position: relative;
 }
 .logo{
     font-family: "Raleway", sans-serif, 800 ;
     color:red;
+}
+.main-slider{
+    background-color: #2E2F42;
+    height: 600px;
 }
