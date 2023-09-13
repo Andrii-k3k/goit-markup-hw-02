@@ -1,29 +1,29 @@
 :root{
-    --body-font: "Poppins", sans-serif;
-    --color-white: #FFFFFF;
+    --body-font:"Roboto", sans-serif;
+    --logo-font:"Raleway", sans-serif;
+    --color-white:#FFFFFF;
 
 }
 
 body{
-    font-family: var(--body-font);
-    color: #434455;
-    background-color: var(--color-white);
-    width: 1440px;
-    margin: auto;
+    font-family:"Roboto", sans-serif;
+    color:#434455;
+    background-color:var(--color-white);
+    width:1440px;
 }
 
 h1{
-    color:  var(--color-white);
+    color:var(--color-white);
 }
 
 button {
-    position: relative;
+    position:relative;
 }
 .logo{
-    font-family: "Raleway", sans-serif, 800 ;
-    color:red;
+    font-family:var(--logo-font);
+    font-weight:800;
 }
 .main-slider{
-    background-color: #2E2F42;
-    height: 600px;
+    background-color:#2E2F42;
+    height:600px;
 }
