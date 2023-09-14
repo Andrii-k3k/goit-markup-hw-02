@@ -1,29 +1,82 @@
 :root{
     --color-white: #FFFFFF;
     --color: #434455;
+    --сolor-iris: #4D5AE5;
+    --color-navy-blue:#2E2F42;
+    ;
     
 }
 
 body{
-   
+     width: 1440px;
+     margin: auto;
     font-family: "Roboto", sans-serif;
     background-color:var(--color-white);
     color: var(--color);
 }
 
-h1{
-    color:var(--color-white);
-}
-
 .logo{
-    font-family: "Raleway", sans-serif;
+    font-family:"Raleway", sans-serif;
     font-weight:800;
     font-size: 18px;
     line-height: 1.17;
-    letter-spacing: 0.03em
+    letter-spacing: 0.03em;
 }
+
+.logo-text-web{
+    color: var(--сolor-iris);
+}
+
+header{
+   
+}
+
+h1{
+    color:var(--color-white);
+    font-family: Roboto;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+
+.menu-list{
+    justify-content: center;
+    padding: 10px;
+    }
+
+
+ul, li{
+ list-style: none;
+}
+
+a, li a{
+    text-decoration: none;
+}
+
+.menu{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    padding: 10px;
+    color: var(--color-navy-blue);
+}
+
+.button-order{
+    padding: 16px 32px;
+    background-color: var(--сolor-iris);
+    color: var(--color-white);
+}
+
+
 
 .main-slider{
     background-color:#2E2F42;
+    height:600px;
+    border-radius: 4px;
 }
 
