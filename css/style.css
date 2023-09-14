@@ -7,9 +7,7 @@
     
 }
 
-body{
-     width: 1440px;
-     margin: auto;
+body{rgin: auto;
     font-family: "Roboto", sans-serif;
     background-color:var(--color-white);
     color: var(--color);
@@ -17,6 +15,7 @@ body{
 
 .logo{
     font-family:"Raleway", sans-serif;
+    text-transform: uppercase;
     font-weight:800;
     font-size: 18px;
     line-height: 1.17;
