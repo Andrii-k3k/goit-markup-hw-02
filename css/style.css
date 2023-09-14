@@ -7,7 +7,8 @@
     
 }
 
-body{rgin: auto;
+body{
+    margin: auto;
     font-family: "Roboto", sans-serif;
     background-color:var(--color-white);
     color: var(--color);
@@ -20,6 +21,7 @@ body{rgin: auto;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
 
 .logo-text-web{
@@ -35,7 +37,7 @@ h1{
     font-family: Roboto;
     font-size: 56px;
     font-weight: 700;
-    line-height: 60px;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
 }
@@ -69,6 +71,11 @@ a, li a{
     padding: 16px 32px;
     background-color: var(--сolor-iris);
     color: var(--color-white);
+    font-family: "Roboto", sans-serif, 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    background-color: #404BBF;
 }
 
 
