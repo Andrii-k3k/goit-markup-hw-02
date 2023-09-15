@@ -1,6 +1,6 @@
 :root{
-    --color-white: #FFFFFF;
     --color: #434455;
+    --color-white: #FFFFFF;
     --сolor-iris: #4D5AE5;
     --color-navy: #2E2F42;
     --color-hover: #404bbf;
@@ -120,6 +120,13 @@ a, li a {
     color: var(--color-navy);
 }
 
-.info-mail.tell{
+.info-mail-tell{
     font-style: normal;
+}
+
+a .list{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--color) ;
 }
