@@ -83,16 +83,17 @@ a, li a {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: var(--color-navy);
 }
 
-.link-header,
+
 .menu-nav{
     font-family: Roboto;
     font-size: 16px;
     font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.02em;
-    color: var(--color-navy);
+    
 }
 
 
@@ -111,8 +112,7 @@ a, li a {
 
 
 .main-slider{
-    background-color:--color-navy;
-    
+    background-color: var(--color-navy);
     border-radius: 4px;
 }
 
@@ -120,7 +120,7 @@ a, li a {
     color: var(--color-navy);
 }
 
-.info-mail-tell{
+address .info-mail-tell{
     font-style: normal;
 }
 
@@ -128,5 +128,5 @@ a .list{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--color) ;
+    color:var(--color); 
 } 
