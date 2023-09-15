@@ -14,13 +14,6 @@ body{
     color: var(--color);
 }
 
-
-
-
-header{
-   
-}
-
 h1{
     color: var(--color-white);
     font-family: Roboto;
@@ -44,15 +37,6 @@ ul, li{
 
 a, li a {
     text-decoration: none;
-}
-
-.link{
-    text-decoration:none;
-    font-weight:500;
-    font-size:16px;
-    line-height:1.5;
-    letter-spacing:0.02em;
-    color:var(--color-navy);
 }
 
 .link:hover,
@@ -97,6 +81,15 @@ a .list{
     letter-spacing: 0.02em;
     color:var(--color); 
 } 
+
+.link{
+    text-decoration:none;
+    font-weight:500;
+    font-size:16px;
+    line-height:1.5;
+    letter-spacing:0.02em;
+    color:var(--color-navy);
+}
 
 ul .link{
     font-family:"Raleway", sans-serif;
