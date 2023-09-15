@@ -108,7 +108,7 @@ a .list{
     text-decoration: none;
 }
 
-.logo{
+nav .logo{
     color: var(--сolor-iris);
     font-weight: 800;
     font-size: 18px;
