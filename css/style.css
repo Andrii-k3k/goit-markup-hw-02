@@ -122,6 +122,11 @@ nav .logo{
     font-style: normal;
 }
 
+.address-list:hover,
+.address-list:focus{
+    color: #404bbf;
+}
+
 list:hover,
 list:focus{
     color: #404bbf;
