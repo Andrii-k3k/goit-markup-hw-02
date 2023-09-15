@@ -109,7 +109,12 @@ a .list{
 }
 
 .logo{
-    color: var(ir);
+    color: var(--сolor-iris);
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+
 }
 
 .info-mail-tell{
