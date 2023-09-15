@@ -24,11 +24,7 @@ h1{
     text-align: center;
 }
 
-.list{
-    list-style: none;
-    justify-content: center;
-    padding: 10px;
-    }
+
 
 
 ul, li{
@@ -74,6 +70,17 @@ a, li a {
     color: var(--color-navy);
 }
 
+nav .list{
+    list-style: none;
+    justify-content: center;
+    padding: 10px;
+    }
+
+address .list{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--color);
+}
 
 a .list{
     font-size: 16px;
@@ -81,6 +88,8 @@ a .list{
     letter-spacing: 0.02em;
     color:var(--color); 
 } 
+
+
 
 .link{
     text-decoration:none;
@@ -103,7 +112,6 @@ ul .link{
 
 nav .logo{
     font-family:"Raleway", sans-serif;
-    font-family: "Raleway";
     color: var(--сolor-iris);
     font-weight: 800;
     font-size: 18px;
