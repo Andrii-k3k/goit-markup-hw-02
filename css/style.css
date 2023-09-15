@@ -108,7 +108,7 @@ ul .link{
     text-decoration: none;
 }
 
-nav .logo{
+nav .logo, .logo{
     font-family:"Raleway", sans-serif;
     color: var(--сolor-iris);
     font-weight: 800;
