@@ -2,8 +2,7 @@
     --color-white: #FFFFFF;
     --color: #434455;
     --сolor-iris: #4D5AE5;
-    --color-navy-blue:#2E2F42;
-    ;
+    --color-navy: #2E2F42;
     
 }
 
@@ -22,7 +21,11 @@ body{
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-decoration: none;
-    color: var(--color-navy-blue);
+    color: var(--color-navy);
+}
+
+.logo{
+    color:#4d5ae5;
 }
 
 .logo-text-web{
@@ -34,7 +37,7 @@ header{
 }
 
 h1{
-    color:var(--color-white);
+    color: var(--color-white);
     font-family: Roboto;
     font-size: 56px;
     font-weight: 700;
@@ -66,7 +69,7 @@ a, li a {
     letter-spacing: 0.02em;
     text-align: left;
     text-decoration:none;
-    color: var(--color-navy-blue);
+    color: var(--color-navy);
 }
 
 
@@ -85,11 +88,11 @@ a, li a {
 
 
 .main-slider{
-    background-color:#2E2F42;
+    background-color:--color-navy;
     
     border-radius: 4px;
 }
 
 .logo-text-studio{
- 
+    color: var(--color-navy);
 }
