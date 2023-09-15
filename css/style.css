@@ -17,13 +17,15 @@ body{
 .link{
     font-family:"Raleway", sans-serif;
     text-transform: uppercase;
-    font-weight:800;
+    font-weight: 500;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-decoration: none;
     color: var(--color-navy);
 }
+
+
 
 .logo{
     color:#4d5ae5;
