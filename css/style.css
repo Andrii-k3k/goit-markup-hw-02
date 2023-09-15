@@ -24,9 +24,6 @@ h1{
     text-align: center;
 }
 
-
-
-
 ul, li{
  list-style: none;
 }
@@ -104,9 +101,9 @@ ul .link{
     font-family:"Raleway", sans-serif;
     text-transform: uppercase;
     font-weight: 500;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     text-decoration: none;
 }
 
