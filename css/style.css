@@ -14,15 +14,7 @@ body{
     color: var(--color);
 }
 
-.link{
-    font-family:"Raleway", sans-serif;
-    text-transform: uppercase;
-    font-weight: 500;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-decoration: none;
-}
+
 
 
 header{
@@ -98,9 +90,6 @@ a, li a {
     color: var(--color-navy);
 }
 
-address .info-mail-tell{
-    font-style: normal;
-}
 
 a .list{
     font-size: 16px;
@@ -109,6 +98,20 @@ a .list{
     color:var(--color); 
 } 
 
+.link{
+    font-family:"Raleway", sans-serif;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-decoration: none;
+}
+
 .logo{
-    color: var(--сolor-iris);
+    color: var(ir);
+}
+
+.info-mail-tell{
+    font-style: normal;
 }
