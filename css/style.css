@@ -66,11 +66,11 @@ a, li a {
 
 .link{
     text-decoration:none;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: var(--color-navy);
+    font-weight:500;
+    font-size:16px;
+    line-height:1.5;
+    letter-spacing:0.02em;
+    color:var(--color-navy);
 }
 
 .link:hover,
@@ -80,27 +80,28 @@ a, li a {
 }
 
 .menu-nav{
-    font-family: Roboto;
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.02em;
+    font-family:Roboto;
+    font-size:16px;
+    font-weight:500;
+    line-height:24px;
+    letter-spacing:0.02em;
     
 }
 
 .button-order{
-    padding: 16px 32px;
-    background-color: var(--сolor-iris);
-    color: var(--color-white);
-    font-family: "Roboto", sans-serif, 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
+    padding:16px 32px;
+    background-color:var(--сolor-iris);
+    color:var(--color-white);
+    font-family:"Roboto", sans-serif;
+    font-weight: 500;
+    font-size:16px;
+    line-height:1.5;
+    letter-spacing:0.04em;
 }
 
 .main-slider{
-    background-color: var(--color-navy);
-    border-radius: 4px;
+    background-color:var(--color-navy);
+    border-radius:4px;
 }
 
 .logo-text-studio{
