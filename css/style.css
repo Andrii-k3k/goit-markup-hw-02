@@ -69,6 +69,11 @@ a, li a {
     color: var(--color-navy-blue);
 }
 
+.menu-nav:first-child{
+    color: var(--color-navy-blue);
+    color: #FFFFFF;
+}
+
 .button-order{
     padding: 16px 32px;
     background-color: var(--сolor-iris);
