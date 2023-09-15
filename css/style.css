@@ -58,21 +58,18 @@ a, li a {
     text-decoration: none;
 }
 
-.menu-nav{
+.menu-nav .menu-navigation{
     font-family: Roboto;
     font-size: 16px;
     font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.02em;
     text-align: left;
-    padding: 10px;
+    text-decoration:none;
     color: var(--color-navy-blue);
 }
 
-.menu-nav:first-child{
-    color: var(--color-navy-blue);
-    color: #FFFFFF;
-}
+
 
 .button-order{
     padding: 16px 32px;
