@@ -98,7 +98,7 @@ a .list{
     color:var(--color); 
 } 
 
-.link{
+li .link{
     font-family:"Raleway", sans-serif;
     text-transform: uppercase;
     font-weight: 500;
