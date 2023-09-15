@@ -4,7 +4,7 @@
     --сolor-iris: #4D5AE5;
     --color-navy: #2E2F42;
     --color-hover: #404bbf;
-    
+    --color-section: #2e2f42;
 }
 
 body{
@@ -70,22 +70,14 @@ a, li a {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-}
-
-.link:hover,.link:focus,
-.link-portfolio, .link-contacts {
-    color: var(--color-hover);
-}
-
-.link-header{
-    text-decoration:none;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
     color: var(--color-navy);
 }
 
+.link:hover,
+.link:focus
+{
+    color: var(--color-hover);
+}
 
 .menu-nav{
     font-family: Roboto;
@@ -96,8 +88,6 @@ a, li a {
     
 }
 
-
-
 .button-order{
     padding: 16px 32px;
     background-color: var(--сolor-iris);
@@ -106,10 +96,7 @@ a, li a {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    background-color: #404BBF;
 }
-
-
 
 .main-slider{
     background-color: var(--color-navy);
