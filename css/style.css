@@ -72,6 +72,10 @@ a, li a {
     color: var(--color-navy);
 }
 
+.logo-footer{
+    color: #f4f4fd;
+}
+
 nav .list{
     list-style: none;
     justify-content: center;
