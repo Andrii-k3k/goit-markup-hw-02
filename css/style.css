@@ -22,18 +22,8 @@ body{
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-decoration: none;
-    color: var(--color-navy);
 }
 
-
-
-.logo{
-    color:#4d5ae5;
-}
-
-.logo-text-web{
-    color: var(--сolor-iris);
-}
 
 header{
    
@@ -118,3 +108,7 @@ a .list{
     letter-spacing: 0.02em;
     color:var(--color); 
 } 
+
+.logo{
+    color: var(--сolor-iris);
+}
