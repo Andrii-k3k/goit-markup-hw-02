@@ -33,7 +33,11 @@ a, li a {
     text-decoration: none;
 }
 
-.menu-link:hover,
+.menu-link:hover
+{
+    color: var(--color-hover);
+}
+
 .menu-link:focus
 {
     color: var(--color-hover);
