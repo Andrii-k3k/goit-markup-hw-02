@@ -14,7 +14,7 @@ body{
     color: var(--color);
 }
 
-.logo{
+.link{
     font-family:"Raleway", sans-serif;
     text-transform: uppercase;
     font-weight:800;
@@ -43,7 +43,8 @@ h1{
     text-align: center;
 }
 
-.menu-list{
+.list{
+    list-style: none;
     justify-content: center;
     padding: 10px;
     }
@@ -57,7 +58,7 @@ a, li a {
     text-decoration: none;
 }
 
-.menu{
+.menu-nav{
     font-family: Roboto;
     font-size: 16px;
     font-weight: 500;
@@ -87,3 +88,6 @@ a, li a {
     border-radius: 4px;
 }
 
+.logo-text-studio{
+ color: var(--color-navy-blue);
+}
