@@ -71,7 +71,7 @@ a, li a {
     color: var(--color-hover);
 }
 
-
+.index-redirect,
 .menu-nav{
     font-family: Roboto;
     font-size: 16px;
