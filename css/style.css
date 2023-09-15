@@ -3,6 +3,7 @@
     --color: #434455;
     --сolor-iris: #4D5AE5;
     --color-navy: #2E2F42;
+    --color-hover: #404bbf;
     
 }
 
@@ -61,14 +62,22 @@ a, li a {
     text-decoration: none;
 }
 
-.menu-nav, .menu-navigation{
+.link{
+    text-decoration:none;
+}
+
+.link:hover,.link:focus,
+.link-portfolio, .link-contacts {
+    color: var(--color-hover);
+}
+
+
+.menu-nav{
     font-family: Roboto;
     font-size: 16px;
     font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.02em;
-    text-align: left;
-    text-decoration:none;
     color: var(--color-navy);
 }
 
@@ -95,4 +104,8 @@ a, li a {
 
 .logo-text-studio{
     color: var(--color-navy);
+}
+
+.info-mail.tell{
+    font-style: normal;
 }
